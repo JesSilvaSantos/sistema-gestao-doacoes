@@ -13,3 +13,7 @@ Projeto desenvolvido para a Associação Esperança.
 - Python
 - Flask
 - HTML
+
+## Autor
+
+Jessica Silva Santos
