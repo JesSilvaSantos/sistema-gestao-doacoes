@@ -17,3 +17,7 @@ Projeto desenvolvido para a Associação Esperança.
 ## Autor
 
 Jessica Silva Santos
+
+## Revisão Técnica
+
+Branch criada para análise e validação do código.

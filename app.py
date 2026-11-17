@@ -6,5 +6,9 @@ app = Flask(__name__)
 def inicio():
     return render_template("index.html")
 
+@app.route("/familias")
+def familias():
+    return render_template("familias.html")
+
 if __name__ == "__main__":
     app.run(debug=True)
